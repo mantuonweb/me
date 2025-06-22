@@ -75,9 +75,41 @@
 <body>
   <!-- Main Application -->
   <my-app>
-    <div style="text-align: center; padding: 50px;">
-      <h1>Loading Mantu Nigam's Portfolio...</h1>
-      <p>Please wait while the content loads.</p>
+    <div style="
+      display: flex; 
+      flex-direction: column; 
+      justify-content: center; 
+      align-items: center; 
+      min-height: 100vh; 
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+    ">
+      <div style="text-align: center;">
+        <h1 style="font-size: 2.5rem; margin-bottom: 1rem; font-weight: 300;">Mantu Nigam</h1>
+        <p style="font-size: 1.2rem; opacity: 0.9;">Portfolio Loading...</p>
+        <div style="
+          width: 50px; 
+          height: 3px; 
+          background: rgba(255,255,255,0.3); 
+          margin: 30px auto;
+          border-radius: 2px;
+          overflow: hidden;
+        ">
+          <div style="
+            width: 50px; 
+            height: 100%; 
+            background: white; 
+            animation: slide 1.5s ease-in-out infinite;
+          "></div>
+        </div>
+      </div>
+      <style>
+        @keyframes slide {
+          0% { transform: translateX(-100%); }
+          100% { transform: translateX(100%); }
+        }
+      </style>
     </div>
   </my-app>
 
