@@ -1,21 +1,36 @@
 {
-  "name": "Mantu Nigam - Software Developer Portfolio",
-  "short_name": "Mantu Portfolio",
-  "description": "Mantu Nigam's professional portfolio showcasing software development projects and skills",
+  "name": "Mantu Nigam | Software Developer",
+  "short_name": "Mantu Nigam",
+  "description": "Professional portfolio of Mantu Nigam - Software Developer specializing in web development and modern technologies",
   "start_url": "/me/",
   "display": "standalone",
-  "background_color": "#667eea",
-  "theme_color": "#764ba2",
+  "background_color": "#13305d",
+  "theme_color": "#13305d",
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "/me/assets/icon.ico",
+      "src": "/me/assets/icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/me/assets/icon-96x96.png",
+      "sizes": "96x96", 
+      "type": "image/png"
+    },
+    {
+      "src": "/me/assets/icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/me/assets/icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable any"
     },
     {
-      "src": "/me/assets/icon-512.ico",
+      "src": "/me/assets/profile.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable any"
