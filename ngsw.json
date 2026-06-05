@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1780678338856,
+  "timestamp": 1780679110056,
   "index": "/me/index.html",
   "assetGroups": [
     {
@@ -19,7 +19,7 @@
         "/me/chunk-WT4FBU6B.js",
         "/me/favicon.ico",
         "/me/index.html",
-        "/me/main-4BUZ2EL5.js",
+        "/me/main-BW5SQYH6.js",
         "/me/manifest.webmanifest",
         "/me/polyfills-5CFQRCPP.js",
         "/me/styles-6EJDO2PF.css"
@@ -211,8 +211,8 @@
     "/me/icons/skype.png": "497a7aefc6b9914696983bf3b6e99b293d3caff2",
     "/me/icons/user.png": "fcd41f9c81b49924cab06a3bf09eca80dd1eb3a6",
     "/me/icons/webrtc.png": "eff14320795cbb09c4f08c4a97465b11dc49417f",
-    "/me/index.html": "73ceceb75253ed2ea7039e270a7d182104b685c5",
-    "/me/main-4BUZ2EL5.js": "b5bd6e4c65ced1561ceb7720a31b79585b4bb8e6",
+    "/me/index.html": "c3cb3b9b4a848ca9d0d7883e930d9fd2c7cdd106",
+    "/me/main-BW5SQYH6.js": "2a5852c15b1d394d9e1e5181106df6926ce92439",
     "/me/manifest.webmanifest": "edc12408eb85342432d80b3406fed83b50100ae1",
     "/me/polyfills-5CFQRCPP.js": "f2241e9a25858f895ce299d15f6f22e849e2fd72",
     "/me/styles-6EJDO2PF.css": "99c1cd65d4c7f7009c11e86292ef3f31e5623847"
